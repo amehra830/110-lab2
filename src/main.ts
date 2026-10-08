@@ -1,8 +1,3 @@
-import {print_drinks} from "./drinks";
+import { printMusic } from "./music.ts";
 
-function main(){
-	print_drinks();
-
-}
-
-main();
+printMusic();
