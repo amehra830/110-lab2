@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import { print_drinks } from "./drinks";
 import { printFeature } from "./animation";
 import { printMusic } from "./music";
@@ -13,4 +12,4 @@ function main(){
 }
 
 main();
->>>>>>> feature/aarav-main
+
