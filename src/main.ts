@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import { print_drinks } from "./drinks";
 import { printFeature } from "./animation";
 import { printMusic } from "./music";
@@ -12,4 +11,3 @@ function main(){
 }
 
 main();
->>>>>>> b2b1d5e95492831c99001bca46315b634f7b7f17
