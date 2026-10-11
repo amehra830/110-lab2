@@ -1,4 +1,4 @@
-import { printFeature } from "./animation.ts";
+import { printFeature } from "./animation";
 
 
 export const music = ["Jingle Bells", "Silent Nights"];
