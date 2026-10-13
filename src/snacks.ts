@@ -1,4 +1,4 @@
-export const snacks = ["veggies", "snacks", "chips", "popcorn", "chocolate chip cookies", "crackers", "hummus", "pretzels", "candy", "fruit"];
+export const snacks = ["veggies", "snacks"];
 
 export function printSnacks(): void {
 	for (const snack of snacks) {
