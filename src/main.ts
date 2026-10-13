@@ -1,3 +1,3 @@
-import { printMusic } from "./music.ts";
+import { printSnacks } from "./snacks.ts";
 
-printMusic();
+printSnacks();
