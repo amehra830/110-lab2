@@ -1,6 +1,6 @@
 {
 
-	"complierOptions":{
+	"compilerOptions":{
 	
 		"target": "es2020",
 		
